@@ -81,11 +81,3 @@ legend{
     display: flex;
 
 }
-
-
-@media (max-width: 768px){
-    .flexslider .slides img {
-        height: 60vh;
-        object-fit: cover;
-    }
-}
